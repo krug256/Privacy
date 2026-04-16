@@ -2,7 +2,7 @@
 
 **Effective Date: April 6, 2026**
 
-**Holystick Games** ("we", "us", or "our") operates the **Noobs: Crazy Combo** mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+**Holystick Games** ("we", "us", or "our") operates mobile applications (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
 
 ## 1. Information Collection and Use
